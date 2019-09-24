@@ -1,4 +1,4 @@
-package multiThreading.caveofProgramming;
+package caveofProgramming;
 
 import static com.util.Print.print;
 

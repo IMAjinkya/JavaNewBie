@@ -1,4 +1,4 @@
-package multiThreading.caveofProgramming.pcLowLevelSynchro;
+package caveofProgramming.pcLowLevelSynchro;
 
 import static com.util.Print.print;
 

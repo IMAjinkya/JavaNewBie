@@ -1,4 +1,4 @@
-package multiThreading.caveofProgramming;
+package caveofProgramming;
 
 import java.util.Scanner;
 import java.util.concurrent.locks.Condition;

@@ -1,4 +1,4 @@
-package multiThreading.caveofProgramming.waitNotifySample;
+package caveofProgramming.pcLowLevelSynchro;
 
 public class App {
 	static final Processor processor = new Processor();

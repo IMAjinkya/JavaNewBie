@@ -1,4 +1,4 @@
-package multiThreading.caveofProgramming.waitNotifySample;
+package caveofProgramming.waitNotifySample;
 
 import static com.util.Print.print;
 
